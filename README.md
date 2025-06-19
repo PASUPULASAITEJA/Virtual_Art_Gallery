@@ -48,10 +48,6 @@ Here are the main tables involved in the system:
 
 ---
 
-## 🖼 Screenshots
-
----
-
 ## ⚙ Setup Instructions
 
 1. *Clone the Repository*
